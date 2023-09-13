@@ -1,1 +1,0 @@
-# quercushernandez.github.io
