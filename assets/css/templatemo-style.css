@@ -86,6 +86,33 @@ html {
     box-sizing: border-box;
 }
 
+.pub-img {
+    width: 165px;
+	height: 87px;
+    display: inline-block;
+    vertical-align: middle;
+    float: none;
+}
+
+.pub-descrp {
+    display: inline-block;
+    vertical-align: middle;
+    float: none;
+    padding-left: 0px;
+    padding-right: 0px;
+}
+
+.article-banner {
+    width: 100%;
+    height: auto;
+    float: left;
+    min-width: 155px;
+    width: 155px;
+    height: 80px;
+    border-radius: 6px;
+	vertical-align: middle;
+}
+
 *,
 *:before,
 *:after {
@@ -345,8 +372,8 @@ html {
     letter-spacing: 0.5px;
     text-transform: uppercase;
     transition: all 0.5s;
-    margin-top: 5px;
-    margin-right: 5px;
+	margin-top: 5px;
+	margin-right: 5px;
 }
 
 .white-button a:hover {
